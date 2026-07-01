@@ -22,9 +22,6 @@ A comprehensive RESTful API for a vehicle marketplace built with Laravel 11. Thi
 - **Search**: Laravel Scout with Algolia
 - **Caching**: Redis
 - **Queue**: Database/Redis queues
-- **Frontend**: Vite + Tailwind CSS (for admin interface)
-- **Testing**: PHPUnit
-- **Debugging**: Laravel Debugbar
 
 ## Design Patterns Implemented
 
